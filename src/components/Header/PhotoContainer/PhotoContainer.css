@@ -1,0 +1,8 @@
+.photocontainer {
+   background: url(https://media.licdn.com/dms/image/D4E12AQEgyrIC7JZCBg/article-cover_image-shrink_720_1280/0/1695017531577?e=2147483647&v=beta&t=zShR9VssEBrghL0icyJV6xymwitjsSfWc117eZ8ZtVA);
+    height:110vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5)
+}

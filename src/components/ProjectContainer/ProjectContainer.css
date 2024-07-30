@@ -1,0 +1,48 @@
+.projectcontainer {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 200px 0 100px;
+    align-items: center;
+    position: relative;
+}
+
+.projectcontainer > h1 {
+    padding-top: 100px;
+}
+
+.projectcontainer__image > img {
+    width: 350px;
+    height: 179px;
+}
+
+.projectcontainer__image2 > img {
+    width: 350px;
+    height: 179px;
+}
+
+.projectcontainer__pr1button {
+    position: absolute;
+    color: black;
+    top: 260px;
+    right: 300px;
+    background-color: pink;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 2px;
+    outline: 1px dotted white;
+}
+
+.projectcontainer__pr2button {
+    position: absolute;
+    color: black;
+    top: 425px;
+    right: 300px;
+    margin-top: 10px;
+    background-color: pink;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 2px;
+    outline: 1px dotted white;
+    }
